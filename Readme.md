@@ -1,6 +1,6 @@
-﻿![](Aspose.Words.a8c2d976-d5db-4b3b-be60-7cc0bb86c5a4.001.png)
+﻿![](tic-tac-toe.png)
 
-![](Aspose.Words.a8c2d976-d5db-4b3b-be60-7cc0bb86c5a4.002.png)
+![](Output.png)
 
 
 - **Initializing Game Components**
